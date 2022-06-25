@@ -10,7 +10,6 @@ typedef struct List {
 
 List*initList(void);
 void deinitList(List* pRoot);
-//function for adding a car
 void addCar(List* pRoot, char* plateNum);
 void removeCar(List* pRoot, char* plateNum);
 void printAll(List* pRoot);

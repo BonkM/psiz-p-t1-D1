@@ -25,12 +25,11 @@ void removeCar(List* pRoot, char* plateNum)
 {
 
 }
-
-//func will print all cars in the list
 void printAll(List* pRoot) {
 
 }
 
-int numberOfElements(List* pRoot) {
+int numberOfElements(List* pRoot)
+{
 	return 0;
 }
